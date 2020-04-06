@@ -1,0 +1,6 @@
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\bin\Debug\EjercicoModularidadyEncapsulamiento.exe.config
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\bin\Debug\EjercicoModularidadyEncapsulamiento.exe
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\bin\Debug\EjercicoModularidadyEncapsulamiento.pdb
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\obj\Debug\EjercicoModularidadyEncapsulamiento.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\obj\Debug\EjercicoModularidadyEncapsulamiento.exe
+C:\Users\Familia Loaiza\source\repos\EjercicoModularidadyEncapsulamiento\obj\Debug\EjercicoModularidadyEncapsulamiento.pdb
